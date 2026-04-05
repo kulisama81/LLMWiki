@@ -17,10 +17,10 @@ Claude integration evolved through three distinct phases — from simple co-auth
 ## Three Phases of Evolution
 
 ### Phase 1: Direct Collaboration (Dec 2025 — Jan 2026)
-Simple CLAUDE.md with "DO NOT" rules, direct co-authored commits, primarily [[sonnet-4-5]]. SnowCheck was the first project (90% Claude commits). Key innovation: "update CLAUDE.md whenever Claude makes a mistake."
+Simple CLAUDE.md with "DO NOT" rules, direct co-authored commits, primarily Sonnet 4.5. SnowCheck was the first project (90% Claude commits). Key innovation: "update CLAUDE.md whenever Claude makes a mistake."
 
 ### Phase 2: Ticket-Driven Development (Jan — Feb 2026)
-Added `tk` ticket tracker, GitHub Actions for mobile ticket creation, more detailed CLAUDE.md files with 16+ gotchas rules. Projects like [[favcollege]] and [[anichat]] built rapidly.
+Added `tk` ticket tracker, GitHub Actions for mobile ticket creation, more detailed CLAUDE.md files with 16+ gotchas rules. Projects like [[favcollege]] and [[anichat-visual-novel-system]] built rapidly.
 
 ### Phase 3: Multi-Agent Pipelines (Mar — Apr 2026)
 Full orchestration with 6 specialized agents in [[apibstudyguide]]. Automated quality gates via hooks. Analytics-driven prioritization. Dropped Co-Authored-By in favor of structured ticket-referenced commits. [[tkt]] replaced `tk` with MCP server integration.

@@ -47,3 +47,6 @@ Ingested from kulisama81/apibstudyguide. Competitive analysis of 10 IB study res
 
 ## [2026-04-04] ingest | Cross-cutting concepts
 Created 2 cross-cutting concept pages: sentiment-analysis (linking anichat + favcollege + Pollitique patterns) and provider-pattern (linking SnowCheck + favcollege abstractions).
+
+## [2026-04-04] lint | First wiki-wide lint pass
+Found 8 broken wikilinks and 1 orphan page. Fixed all: created 3 entity pages (favcollege, apibstudyguide, tkt), relinked 5 broken references to existing pages (anichat -> anichat-visual-novel-system, manga-cinematography -> source-manga-cinematography, ai-image-consistency -> source-ai-image-consistency, emotion-detection -> sentiment-analysis), converted 1 to plain text (sonnet-4-5). Added inbound link to orphan page (rotoscoping).

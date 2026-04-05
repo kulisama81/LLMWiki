@@ -8,7 +8,7 @@ updated: 2026-04-04
 
 # AniChat Visual Novel System
 
-AniChat is a visual novel chat app built in one day (2026-02-03) with 100% Claude commits. It combines [[emotion-detection]], [[manga-cinematography]], and [[ai-image-consistency]] into an interactive storytelling system inspired by Tales of Arise bonding scenes and Roy Lichtenstein pop art.
+AniChat is a visual novel chat app built in one day (2026-02-03) with 100% Claude commits. It combines [[sentiment-analysis]], [[source-manga-cinematography]], and [[source-ai-image-consistency]] into an interactive storytelling system inspired by Tales of Arise bonding scenes and Roy Lichtenstein pop art.
 
 ## Architecture
 

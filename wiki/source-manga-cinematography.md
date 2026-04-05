@@ -12,7 +12,7 @@ Summary of camera framing and shot selection rules for visual novels, drawn from
 
 ## Key Takeaway
 
-In manga, **eyes convey internal emotion** while **mouth conveys action and aggression**. The most common mistake is using mouth close-ups for happy smiles — teeth showing looks aggressive without eye context. This insight drives the entire camera selection system in [[anichat]].
+In manga, **eyes convey internal emotion** while **mouth conveys action and aggression**. The most common mistake is using mouth close-ups for happy smiles — teeth showing looks aggressive without eye context. This insight drives the entire camera selection system in [[anichat-visual-novel-system]].
 
 ## Core Rules
 
@@ -34,4 +34,4 @@ Manga masters build emotional peaks through panel progression: wide shot -> mid-
 
 Academic research from ResearchGate ("Close-ups: an emotive language in manga"), industry guides from StudioBinder and No Film School, and manga-specific analysis from The Manga Menagerie and Japan Powered.
 
-See also: [[anichat-visual-novel-system]], [[ai-image-consistency]]
+See also: [[anichat-visual-novel-system]], [[source-ai-image-consistency]]

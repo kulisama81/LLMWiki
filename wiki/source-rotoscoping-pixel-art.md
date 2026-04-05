@@ -37,4 +37,4 @@ Contact -> Recoil -> Passing -> Lift -> Airborne -> Extended -> Landing -> Conta
 
 LibreSprite 1.2-dev V8 scripting is broken (embedder-vs-build mismatch) — GUI works perfectly but scripting does not. Use PIL/Pillow for automation instead.
 
-See also: [[source-claude-usage-patterns]]
+See also: [[rotoscoping]], [[source-claude-usage-patterns]]

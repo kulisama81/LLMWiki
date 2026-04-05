@@ -22,6 +22,9 @@ Content catalog for the LLM Wiki. Organized by page type.
 ## Entities
 - [claude-integration-timeline](claude-integration-timeline.md) — Chronological record of Claude adoption milestones across all repos
 - [anichat-visual-novel-system](anichat-visual-novel-system.md) — Emotion detection + camera director + scene composer for visual novel chat
+- [favcollege](favcollege.md) — College comparison platform with Scorecard API and review scraping pipelines
+- [apibstudyguide](apibstudyguide.md) — IB study guide site with 6-agent multi-agent pipeline
+- [tkt](tkt.md) — Go-based ticket management tool with MCP server integration
 
 ## Concepts
 - [multi-agent-architecture](multi-agent-architecture.md) — 6-agent pipeline pattern with automated quality gates (apibstudyguide)

@@ -32,7 +32,7 @@ Character block stays frozen. Only framing, emotion, and background change.
 
 Nano Banana (Gemini 2.5 Flash) for speed and consistency in character portraits. Nano Banana Pro (Gemini 3 Pro) for complex scenes but overkill for simple portraits.
 
-## Results in [[anichat]]
+## Results in [[anichat-visual-novel-system]]
 
 12 emotion avatars (2 characters x 6 emotions) + 2 back-view portraits, all with consistent appearance. Only facial expressions differ.
 
