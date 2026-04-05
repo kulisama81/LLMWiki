@@ -18,6 +18,7 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [source-review-scraping](source-review-scraping.md) — Twitter/Reddit student review scraping with sentiment analysis and denormalized caching
 - [source-weather-provider-architecture](source-weather-provider-architecture.md) — Strategy pattern for weather APIs with OpenSnow-inspired UX analysis
 - [source-ib-competitive-landscape](source-ib-competitive-landscape.md) — IB study resource competitive analysis, SEO, and Reddit distribution strategy
+- [source-ga4-gsc-agent-setup](source-ga4-gsc-agent-setup.md) — GA4 + GSC setup for Claude agent pipelines: service accounts, API keys, domain vs URL prefix gotcha
 
 ## Entities
 - [claude-integration-timeline](claude-integration-timeline.md) — Chronological record of Claude adoption milestones across all repos
