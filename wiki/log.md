@@ -62,3 +62,7 @@ Distilled 8 recurring patterns from 12 sources: keyword-over-ML, cache everythin
 
 ## [2026-04-04] update | README
 Replaced bare `# LLMWiki` with project description, structure overview, current contents summary, getting started guide, and browse links.
+
+## [2026-04-05] ingest | GA4 + Google Search Console Agent Setup
+
+Source: hands-on setup session in apibstudyguide. Covers GCP service account creation, GA4 Data API + Search Console API integration, domain vs URL prefix property gotcha, cron scheduling, and agent configuration. Filed as `source-ga4-gsc-agent-setup.md`.
