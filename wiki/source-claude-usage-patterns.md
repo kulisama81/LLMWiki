@@ -39,4 +39,4 @@ Full orchestration with 6 specialized agents in [[apibstudyguide]]. Automated qu
 - **Self-enforcing quality**: PreToolUse hooks block ticket closure without clean UX review
 - **Living documentation**: "DO NOT" lists grew from experience, encoding mistakes as institutional knowledge
 
-See also: [[claude-integration-timeline]], [[multi-agent-architecture]]
+See also: [[claude-integration-timeline]], [[multi-agent-architecture]], [[anichat-visual-novel-system]], [[provider-pattern]], [[sentiment-analysis]]

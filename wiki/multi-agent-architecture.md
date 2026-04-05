@@ -47,4 +47,4 @@ This prevents regressions without requiring human vigilance.
 - **`sync-feedback.mjs`**: SessionStart hook pulls student feedback from GitHub Issues
 - **Session logging**: planner and autoresearch maintain `.claude/*-log.json`
 
-See also: [[source-claude-usage-patterns]], [[claude-integration-timeline]]
+See also: [[source-claude-usage-patterns]], [[claude-integration-timeline]], [[source-ib-competitive-landscape]]
