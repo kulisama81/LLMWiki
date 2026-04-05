@@ -16,7 +16,7 @@ CLAUDE.md     Schema and conventions governing how the LLM operates
 
 **12 raw sources** from 8 repositories covering: Claude integration patterns, manga cinematography, AI image generation, Japan travel, pixel art rotoscoping, political trending algorithms, US college data APIs, student review scraping, weather provider architecture, and IB study resource strategy.
 
-**22 wiki pages**: 10 source summaries, 5 entity pages, 5 concept pages, 2 comparison pages, 1 synthesis page.
+**25 wiki pages**: 10 source summaries, 5 entity pages, 5 concept pages, 2 comparison pages, 1 synthesis page.
 
 ## Getting Started
 
@@ -30,3 +30,4 @@ Start a conversation with Claude in this directory. Key operations:
 
 - [`wiki/index.md`](wiki/index.md) — Content catalog (start here)
 - [`wiki/log.md`](wiki/log.md) — Chronological record of all operations
+- [Live site](https://kulisama81.github.io/LLMWiki/) — Browsable wiki with graph view (powered by Quartz)
