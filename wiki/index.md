@@ -34,10 +34,11 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [trip-data-model](trip-data-model.md) — YAML-frontmatter schema for travel itineraries with stay/trip/transport types
 
 ## Comparisons
-_No comparison pages yet._
+- [compare-sentiment-approaches](compare-sentiment-approaches.md) — Keyword-based sentiment across anichat, favcollege, and Pollitique: tradeoffs and when to use which
+- [compare-api-economics](compare-api-economics.md) — Free vs. paid API tiers across Twitter, YouTube, College Scorecard, Open-Meteo, Gemini
 
 ## Synthesis
-_No synthesis pages yet._
+- [synthesis-project-patterns](synthesis-project-patterns.md) — 8 recurring patterns across all 12 sources: caching, fallbacks, normalization, keyword-over-ML, and more
 
 ## Query Results
 _No filed query results yet._

@@ -50,3 +50,15 @@ Created 2 cross-cutting concept pages: sentiment-analysis (linking anichat + fav
 
 ## [2026-04-04] lint | First wiki-wide lint pass
 Found 8 broken wikilinks and 1 orphan page. Fixed all: created 3 entity pages (favcollege, apibstudyguide, tkt), relinked 5 broken references to existing pages (anichat -> anichat-visual-novel-system, manga-cinematography -> source-manga-cinematography, ai-image-consistency -> source-ai-image-consistency, emotion-detection -> sentiment-analysis), converted 1 to plain text (sonnet-4-5). Added inbound link to orphan page (rotoscoping).
+
+## [2026-04-04] create | Comparison: Sentiment Analysis Approaches
+Side-by-side comparison of keyword-based sentiment across anichat (real-time emotion detection), favcollege (batch review scoring), and Pollitique (trending normalization). Covers when to use which approach, what each gets right/wrong, and why keyword-over-ML keeps winning.
+
+## [2026-04-04] create | Comparison: API Economics Across Projects
+Cross-project comparison of API costs and constraints. Key finding: Twitter free tier is write-only in 2026, government APIs (College Scorecard) are underrated, and every project caches aggressively as a response to API fragility.
+
+## [2026-04-04] create | Synthesis: Patterns Across All Projects
+Distilled 8 recurring patterns from 12 sources: keyword-over-ML, cache everything, provider pattern, pre-generation over real-time, DO NOT lists as living docs, single-day builds, data normalization layers, and three-tier fallback chains. Also captures what didn't work.
+
+## [2026-04-04] update | README
+Replaced bare `# LLMWiki` with project description, structure overview, current contents summary, getting started guide, and browse links.
