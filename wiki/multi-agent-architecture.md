@@ -47,4 +47,8 @@ This prevents regressions without requiring human vigilance.
 - **`sync-feedback.mjs`**: SessionStart hook pulls student feedback from GitHub Issues
 - **Session logging**: planner and autoresearch maintain `.claude/*-log.json`
 
-See also: [[source-claude-usage-patterns]], [[claude-integration-timeline]], [[source-ib-competitive-landscape]]
+## Known Failure Mode: Agent Domain Blindness
+
+When agents work outside their original context (e.g., English → French, IB → AP), they carry over assumptions invisibly. The pipeline's layered review doesn't catch these because no layer has the domain knowledge. Fix: research → configure → validate → regress-test. See [[agent-domain-blindness]] for the full pattern and [[source-agent-foreign-language]] for the case study.
+
+See also: [[source-claude-usage-patterns]], [[claude-integration-timeline]], [[source-ib-competitive-landscape]], [[agent-domain-blindness]], [[source-agent-foreign-language]]

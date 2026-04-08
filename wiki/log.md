@@ -66,3 +66,7 @@ Replaced bare `# LLMWiki` with project description, structure overview, current 
 ## [2026-04-05] ingest | GA4 + Google Search Console Agent Setup
 
 Source: hands-on setup session in apibstudyguide. Covers GCP service account creation, GA4 Data API + Search Console API integration, domain vs URL prefix property gotcha, cron scheduling, and agent configuration. Filed as `source-ga4-gsc-agent-setup.md`.
+
+## [2026-04-07] ingest | Agent Foreign Language Handling
+
+Source: apibstudyguide tickets t-04c9 and t-d96f. Creator agent generated 783 lines of AP French content with zero French accents. Root cause: no target-language awareness in the agent pipeline. Fix: research-first pattern (identify language → research orthography → configure validation rules → regress-test). Created source summary, new concept page "agent-domain-blindness" capturing the broader failure mode (agents carrying over domain assumptions). Updated multi-agent-architecture with known failure mode section.

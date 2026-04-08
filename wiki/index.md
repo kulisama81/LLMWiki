@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-04
+updated: 2026-04-07
 ---
 
 # Index
@@ -19,6 +19,7 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [source-weather-provider-architecture](source-weather-provider-architecture.md) — Strategy pattern for weather APIs with OpenSnow-inspired UX analysis
 - [source-ib-competitive-landscape](source-ib-competitive-landscape.md) — IB study resource competitive analysis, SEO, and Reddit distribution strategy
 - [source-ga4-gsc-agent-setup](source-ga4-gsc-agent-setup.md) — GA4 + GSC setup for Claude agent pipelines: service accounts, API keys, domain vs URL prefix gotcha
+- [source-agent-foreign-language](source-agent-foreign-language.md) — LLM agents default to English orthography; research-first pattern for foreign language content
 
 ## Entities
 - [claude-integration-timeline](claude-integration-timeline.md) — Chronological record of Claude adoption milestones across all repos
@@ -33,6 +34,7 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [provider-pattern](provider-pattern.md) — Strategy pattern abstracting external data sources behind normalized interfaces
 - [rotoscoping](rotoscoping.md) — Animation technique tracing real video footage, from Prince of Persia to modern pixel art
 - [trip-data-model](trip-data-model.md) — YAML-frontmatter schema for travel itineraries with stay/trip/transport types
+- [agent-domain-blindness](agent-domain-blindness.md) — Failure mode where agents carry over domain assumptions; research → configure → validate → regress-test fix
 
 ## Comparisons
 - [compare-sentiment-approaches](compare-sentiment-approaches.md) — Keyword-based sentiment across anichat, favcollege, and Pollitique: tradeoffs and when to use which
