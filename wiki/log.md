@@ -6,6 +6,9 @@ title: Wiki Log
 
 Chronological record of wiki operations.
 
+## [2026-05-16] ingest | React 19 + Next.js Hydration Debugging
+Ingested debugging session from kulisama81/produceview while building the `/demo/distributor` MVP. Five compounding layers behind a "buttons render but clicks do nothing" symptom: (1) non-deterministic `useState(new Date()...)` initializers, (2) `useState(todayIso())` in form date defaults, (3) missing `suppressHydrationWarning` on `<html>` when an inline init script mutates `dataset.theme` pre-hydration, (4) defensive native `addEventListener` pattern for critical UX paths, (5) Next.js dev-mode HMR WebSocket failure across LAN reproducible only on prod build. Created source summary plus two concept pages: [[react-hydration-pitfalls]] and [[nextjs-dev-vs-prod-debugging]].
+
 ## [2026-04-04] init | Wiki scaffolded
 Initial project setup. Created directory structure, CLAUDE.md schema, index, and log.
 

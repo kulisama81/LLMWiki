@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-07
+updated: 2026-05-16
 ---
 
 # Index
@@ -20,6 +20,7 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [source-ib-competitive-landscape](source-ib-competitive-landscape.md) — IB study resource competitive analysis, SEO, and Reddit distribution strategy
 - [source-ga4-gsc-agent-setup](source-ga4-gsc-agent-setup.md) — GA4 + GSC setup for Claude agent pipelines: service accounts, API keys, domain vs URL prefix gotcha
 - [source-agent-foreign-language](source-agent-foreign-language.md) — LLM agents default to English orthography; research-first pattern for foreign language content
+- [source-react-hydration-debugging](source-react-hydration-debugging.md) — React 19 + Next.js "renders but doesn't respond"; four code anti-patterns plus the dev-mode WebSocket trap
 
 ## Entities
 - [claude-integration-timeline](claude-integration-timeline.md) — Chronological record of Claude adoption milestones across all repos
@@ -35,6 +36,8 @@ Content catalog for the LLM Wiki. Organized by page type.
 - [rotoscoping](rotoscoping.md) — Animation technique tracing real video footage, from Prince of Persia to modern pixel art
 - [trip-data-model](trip-data-model.md) — YAML-frontmatter schema for travel itineraries with stay/trip/transport types
 - [agent-domain-blindness](agent-domain-blindness.md) — Failure mode where agents carry over domain assumptions; research → configure → validate → regress-test fix
+- [react-hydration-pitfalls](react-hydration-pitfalls.md) — Taxonomy of non-deterministic useState, pre-React DOM mutation, and the "renders but doesn't respond" symptom in React 19 App Router
+- [nextjs-dev-vs-prod-debugging](nextjs-dev-vs-prod-debugging.md) — When HMR WebSocket failures masquerade as application bugs; 30-second `next build && next start` test
 
 ## Comparisons
 - [compare-sentiment-approaches](compare-sentiment-approaches.md) — Keyword-based sentiment across anichat, favcollege, and Pollitique: tradeoffs and when to use which
